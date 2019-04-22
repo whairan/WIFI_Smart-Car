@@ -1,0 +1,1 @@
+If your PC do not install the simplified Chinese characters, there may be garbled file name, and the software can not be used properly, in case of such a situation, please change the garbled folder rename to English characters.

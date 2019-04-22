@@ -1,0 +1,1 @@
+Use SDFormatter to format TF card first,and use Win32DiskImager copy the Ubuntu mate image to TF card
